@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://idos.9876996.xyz/'
+const BAREURL = 'https://afosne.tk/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
